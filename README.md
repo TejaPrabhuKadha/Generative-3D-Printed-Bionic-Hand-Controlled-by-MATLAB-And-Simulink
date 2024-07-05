@@ -1,1 +1,1 @@
-# Responsive-Bionic-Hand-3D-Printing-And-OpenCV-For-Gesture-Recognition
+Generative 3D Printed Bionic Hand Controlled by MATLAB And Simulink
