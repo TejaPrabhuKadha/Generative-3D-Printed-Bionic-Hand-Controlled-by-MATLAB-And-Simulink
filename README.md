@@ -1,1 +1,12 @@
 Generative 3D Printed Bionic Hand Controlled by MATLAB And Simulink
+![IMG_20240321_193737581](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/3bddbc12-03db-4233-a184-d03dc138fb49)
+![removal ai _0ffa8ea4-c3fa-4172-843b-a87e0a2a48ce-img_20240321_193737581](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/b43f2dc2-2c7e-40f6-bb18-b5db669e6812)
+![removal ai _0ffa8ea4-c3fa-4172-843b-a87e0a2a48ce-img_20240321_193737581-removebg-preview](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/825bb9b4-e586-461c-87dc-e897c03f0c65)
+![Screenshot 2024-03-23 020035](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/3cc6a423-0b50-4fc1-bde0-8a9740470675)
+![Screenshot 2024-03-23 015852](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/0b4a5457-d1cb-45d5-903c-8d1a4645a2d3)
+![Screenshot 2024-03-23 015829](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/fdd4f9ea-1da5-447e-a205-58f2788fb819)
+![Screenshot 2024-03-23 015718](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/61102e3b-f3fd-4ce1-b120-68f354dabb3d)
+![Screenshot 2024-03-23 015549](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/7afa3425-7ec2-4c25-b9c6-1b44f3d8e269)
+![Screenshot 2024-03-23 020900](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/305d8e66-9081-4710-af54-d3babb72c81c)
+![Screenshot 2024-04-05 142847](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/c5e4bdf6-d287-47d7-94f5-d3c8d9d9f9d2)
+![Screenshot 2024-04-05 142909](https://github.com/TejaPrabhuKadha/Generative-3D-Printed-Bionic-Hand-Controlled-by-MATLAB-And-Simulink/assets/127415609/d1c8ea8e-2075-47d3-8aab-c70ff210191f)
